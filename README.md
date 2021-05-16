@@ -15,3 +15,5 @@ As well as the above, one of my goals is to get bak into using Git, and to lear 
 
 5/15
 -straightened up the README file.
+
+5/16
