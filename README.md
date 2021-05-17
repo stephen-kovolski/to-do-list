@@ -17,3 +17,4 @@ As well as the above, one of my goals is to get bak into using Git, and to lear 
 -straightened up the README file.
 
 5/16
+-practiced with github
