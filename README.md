@@ -18,3 +18,8 @@ As well as the above, one of my goals is to get back into using Git, and to lear
 
 5/16
 -practiced with github
+
+5/18
+-created the checck mark button and trash button.
+-Both have icons rather than strings
+-appended to the div
