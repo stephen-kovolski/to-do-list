@@ -23,3 +23,6 @@ As well as the above, one of my goals is to get back into using Git, and to lear
 -created the checck mark button and trash button.
 -Both have icons rather than strings
 -appended to the div
+
+Did not keep up with the read me file like I should have.
+However this was a great practice to get back into coding. 
