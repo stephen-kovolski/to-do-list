@@ -20,9 +20,13 @@ As well as the above, one of my goals is to get back into using Git, and to lear
 -practiced with github
 
 5/18
--created the checck mark button and trash button.
+-created the check mark button and trash button.
 -Both have icons rather than strings
 -appended to the div
+
+5/19
+created the delete function
+used the remove() method to remove the to-do once completed.
 
 Did not keep up with the read me file like I should have.
 However this was a great practice to get back into coding. 
